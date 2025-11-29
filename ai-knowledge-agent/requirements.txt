@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+numpy
+pillow
+PyPDF2
+pymupdf
+python-dotenv
+langchain-text-splitters
+faiss-cpu
+pytesseract
